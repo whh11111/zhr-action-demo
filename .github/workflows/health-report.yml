@@ -20,7 +20,9 @@ jobs:
             cookie_eai_sess: ZJU_COOKIE
             dingtalk_token: DINGTALK_TOKEN
           - username: ZJU_USERNAME2
-            password: ZJU_PASSWORD2
+            password: ZJU_PASSWORD2         
+          - username: ZJU_USERNAME3
+            password: ZJU_PASSWORD3
             
     steps:
       - name: 打卡
