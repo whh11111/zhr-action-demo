@@ -22,7 +22,9 @@ jobs:
           - username: ZJU_USERNAME2
             password: ZJU_PASSWORD2         
           - username: ZJU_USERNAME3
-            password: ZJU_PASSWORD3
+            password: ZJU_PASSWORD3          
+          - username: ZJU_USERNAME4
+            password: ZJU_PASSWORD4
             
     steps:
       - name: 打卡
