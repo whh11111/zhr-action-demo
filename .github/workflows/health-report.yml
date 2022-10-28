@@ -27,6 +27,8 @@ jobs:
             password: ZJU_PASSWORD5
           - username: ZJU_USERNAME6
             password: ZJU_PASSWORD6
+          - username: ZJU_USERNAME7
+            password: ZJU_PASSWORD7
             
             
     steps:
