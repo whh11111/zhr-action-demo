@@ -21,6 +21,8 @@ jobs:
             password: ZJU_PASSWORD2  
           - username: ZJU_USERNAME3
             password: ZJU_PASSWORD3
+          - username: ZJU_USERNAME4
+            password: ZJU_PASSWORD4
             
           #- username: ZJU_USERNAME3
            # password: ZJU_PASSWORD3          
